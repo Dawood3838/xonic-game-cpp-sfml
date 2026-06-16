@@ -61,21 +61,6 @@ This project extends the classic Xonix gameplay by introducing multiple game mod
 
 ---
 
-## Project Structure
-
-```text
-xonic-game-cpp-sfml
-│
-├── main.cpp
-├── scores.txt
-├── images/
-├── audio/
-├── fonts/
-└── screenshots/
-```
-
----
-
 ## Screenshots
 
 Project screenshots can be found in the screenshots folder.
